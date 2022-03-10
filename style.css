@@ -1,2 +1,7 @@
 /* inserimento colore per h2*/
 h2 { color: rgba(207,138,4,255) }
+
+/* inserimento corsivo per h3 */
+h3 {font-style: italic;}
+}
+ 
