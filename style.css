@@ -15,8 +15,10 @@ img {max-width: 15%; height: auto;}
 img {display: block;margin-left: auto;margin-right: auto;}
 
 /*colore linea inferiore */       
-hr { border-top: 1px solid rgb(207,138,4);}
+hr { border-top: 1px solid rgba(207,138,4,255);}
 /*colore linea superiore */
-hr.l1 { border: 2px solid rgb(207,138,4); }
+hr.l1 { border: 2px solid rgba(207,138,4,255); }
 
+/*colore sfondo grigio*/ 
+div#testa { background-color: rgba(237,237,237,255);}
 
