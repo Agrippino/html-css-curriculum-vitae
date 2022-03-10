@@ -10,3 +10,8 @@ h3 {font-style: italic;}
 h1 { text-align: center;}
 div#autore { text-align: center;}
 
+/*ridemensioanmento foto e centramento*/
+img {max-width: 15%; height: auto;}
+img {display: block;margin-left: auto;margin-right: auto;}
+
+
