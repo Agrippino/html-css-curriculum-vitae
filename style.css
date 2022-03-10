@@ -14,4 +14,9 @@ div#autore { text-align: center;}
 img {max-width: 15%; height: auto;}
 img {display: block;margin-left: auto;margin-right: auto;}
 
+/*colore linea inferiore */       
+hr { border-top: 1px solid rgb(207,138,4);}
+/*colore linea superiore */
+hr.l1 { border: 2px solid rgb(207,138,4); }
+
 
